@@ -1,0 +1,90 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZCL_GDC</CLSNAME>
+    <LANGU>R</LANGU>
+    <DESCRIPT>Глобальные данные SAP BW</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>CLEAR_MSGS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Очистить сообщения</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>DEL_PROPS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Удалить все свойства с контролем ошибок</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>GET_AREA</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Создать объект работы с кластером</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>GET_PROP</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Прочитать значение свойства с контролем ошибок</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>LOAD_MSGS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Загрузить сообщения.</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>LOAD_PROPS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Прочитать данные из кластера</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>MT_MSGS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Application Log: Table with Message</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>MT_VALUES</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Данные</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>M_GUID</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Memory area ID</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>SAVE_MSGS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Сохранить сообщения в кластер</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>SAVE_PROPS</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Прочитать данные из кластера</DESCRIPT>
+    </SEOCOMPOTX>
+    <SEOCOMPOTX>
+     <CLSNAME>ZCL_GDC</CLSNAME>
+     <CMPNAME>SET_PROP</CMPNAME>
+     <LANGU>R</LANGU>
+     <DESCRIPT>Записать значение свойства с контролем ошибок</DESCRIPT>
+    </SEOCOMPOTX>
+   </DESCRIPTIONS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
